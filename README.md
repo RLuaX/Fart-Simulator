@@ -2,7 +2,7 @@
 https://www.roblox.com/games/4950829171
 
 
-### exploits
+### Exploits Support
 
 Exploit | Support Script
 ------------ | -------------
