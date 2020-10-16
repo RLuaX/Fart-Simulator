@@ -1,6 +1,8 @@
 # Fart-Simulator
 https://www.roblox.com/games/4950829171
 
+### What does it do?
+This script is used to farm coins
 
 ### Exploits Support
 
