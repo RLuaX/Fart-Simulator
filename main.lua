@@ -20,17 +20,6 @@ for v,n in pairs(game:GetService("Workspace")[LPlayer.Name]:GetChildren()) do
     end
 end
 
-for v,n in pairs(game:GetService("Workspace").Islands["1"].CurrencySpawners:GetDescendants()) do
-    for va,ins in pairs(n:GetChildren()) do
-        if ins == "Single" then
-            for value,inst in pairs(ins:GetChildren()) do
-                firetouchinterest(game:GetService("Workspace")[LPlayer.Name].Head, inst.Mover, 0)
-                firetouchinterest(game:GetService("Workspace")[LPlayer.Name].Head, inst.Mover, 1)
-            end
-        end
-    end
-end
-
 pcall(function()
     local PlayerToolCola = game:GetService("Workspace")[LPlayer.Name][Tool].Settings
     PlayerToolCola["DebounceTime"].Value = 0
