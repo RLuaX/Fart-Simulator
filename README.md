@@ -8,6 +8,7 @@ This script is used to farm coins
 
 Exploit | Support Script
 ------------ | -------------
+Fluxus | True
 Synapse X | True
 Sentinel | True
 Protosmasher | True
