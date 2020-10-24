@@ -5,7 +5,7 @@
 ]]
 
 --[[Settings]]
-_G.ON = true --[[true\false]]
+getgenv().ON = true --[[true\false]]
 
 --[[Locals]]
 local LPlayer = game:GetService("Players").LocalPlayer
@@ -34,4 +34,4 @@ repeat wait()
     SellWT()
     game:GetService("ReplicatedStorage").RemoteFunctions.Request:InvokeServer("ClickableCurrencyAcquired", Vector3.new(0, 0, 0))
 until
-_G.ON == false
+getgenv().ON == false
