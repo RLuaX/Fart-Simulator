@@ -2,7 +2,7 @@
 https://www.roblox.com/games/4950829171
 
 ### What does it do?
-This script is used to farm coins
+This script is for Fart Simulator. I know it’s a weird name. This script has only 1 option, which is on or off. It has a function that gets any tools you currently have in your backpack and use it to farm coins. It also had a sell function, which automatically sells. The sell function uses firetouchinterest, so it does not teleport you.
 
 ### Exploits Support
 
